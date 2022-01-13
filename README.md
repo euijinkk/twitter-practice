@@ -2,7 +2,7 @@
 
 ## Client
 
-- JavaScript (will be TypeScript)
+- TypeScript
 - Next.js (SSR)
 - context api
 
